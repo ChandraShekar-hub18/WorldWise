@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "8e61",
+      "cityName": "Lalueza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-24T11:35:03.446Z",
+      "notes": "",
+      "position": {
+        "lat": "41.86956082699455",
+        "lng": "-0.19775390625000003"
+      }
+    },
+    {
+      "id": "61e9",
+      "cityName": "Meßstetten",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-02-24T11:35:33.376Z",
+      "notes": "",
+      "position": {
+        "lat": "48.16608541901253",
+        "lng": "8.964843750000002"
+      }
+    },
+    {
+      "id": "2176",
+      "cityName": "Alcala de Henares",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-24T17:23:08.043Z",
+      "notes": "test",
+      "position": {
+        "lat": "40.48038142908172",
+        "lng": "-3.3618164062500004"
+      }
+    },
+    {
+      "id": "fc26",
+      "cityName": "Hyderabad",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-02-24T17:23:29.427Z",
+      "notes": "home\n",
+      "position": {
+        "lat": "17.790535393588975",
+        "lng": "78.59619140625001"
+      }
+    }
+  ]
+}
